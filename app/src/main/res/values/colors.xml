@@ -2,4 +2,9 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="light_lavender">#EFE1F5</color>
+    <color name="lavender">#B197DB</color>
+    <color name="purple">#57338F</color>
+    <color name="worst_tip">FA3000</color>
+    <color name="best_tip">#1AF900</color>
 </resources>
