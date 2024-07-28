@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace 'com.ajwad.tipcalculator'
-    compileSdk 33
+    compileSdk 35
 
     defaultConfig {
         applicationId "com.ajwad.tipcalculator"
-        minSdk 29
-        targetSdk 33
+        minSdk 33
+        targetSdk 35
         versionCode 1
         versionName "1.0"
 
